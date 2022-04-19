@@ -3,8 +3,12 @@
 <!-- * [首页](/)  -->
 
 <!-- web Api 笔记 -->
-* [webAPI](total/web_api/day01.md)
-
+* [01](total/web_api/day01.md)
+* [02](total/web_api/day02.md)
+* [03](total/web_api/day03.md)
+* [04](total/web_api/day04.md)
+* [05](total/web_api/day05.md)
+* [06](total/web_api/day06.md)
 
 <!-- js 基础笔记 -->
 <!-- * [total_day01](total/JS_basis/01)
