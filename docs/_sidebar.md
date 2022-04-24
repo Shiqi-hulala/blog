@@ -10,6 +10,8 @@
 * [05](total/web_api/day05.md)
 * [06](total/web_api/day06.md)
 
+* [webpack](total/webpack/webpack.md)
+
 <!-- js 基础笔记 -->
 <!-- * [total_day01](total/JS_basis/01)
 * [total_day02](total/JS_basis/02)
