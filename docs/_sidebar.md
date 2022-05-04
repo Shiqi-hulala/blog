@@ -8,10 +8,7 @@
 * [03](total/web_api/day03.md)
 * [04](total/web_api/day04.md)
 * [05](total/web_api/day05.md)
-* [06](total/web_api/day06.md)
-
 * [webpack](total/webpack/webpack.md)
-* 
 * [vue](total/vue/vue01.md)
 * [vue](total/vue/vue02.md)
 
@@ -23,8 +20,6 @@
 * [total_day05](total/JS_basis/05)
 * [total_day06](total/JS_basis/06) -->
 
-
 <!-- * [guide](/guide)
 * [zh-cn](zh-cn/)
 * [zh-cn guide](zh-cn/guide) -->
-
