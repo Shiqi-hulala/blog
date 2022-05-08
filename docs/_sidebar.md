@@ -3,12 +3,13 @@
 <!-- * [首页](/)  -->
 
 <!-- web Api 笔记 -->
-* [01](total/web_api/day01.md)
-* [02](total/web_api/day02.md)
-* [03](total/web_api/day03.md)
-* [04](total/web_api/day04.md)
-* [05](total/web_api/day05.md)
-* [webpack](total/webpack/webpack.md)
+<!-- * [webApi01](total/web_api/day01.md)
+* [webApi02](total/web_api/day02.md)
+* [webApi03](total/web_api/day03.md)
+* [webApi04](total/web_api/day04.md)
+* [webApi05](total/web_api/day05.md)
+* [webpack](total/webpack/webpack.md) -->
+
 * [vue](total/vue/vue01.md)
 * [vue](total/vue/vue02.md)
 
