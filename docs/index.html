@@ -9,7 +9,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
+  <link rel="stylesheet" href="./css/vue.css">
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css"> -->
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css"> -->
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/pure.css"> -->
@@ -30,6 +31,7 @@
         d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"
         fill="currentColor" class="octo-body"></path>
     </svg></a>
+
   <style>
     .github-corner:hover .octo-arm {
       animation: octocat-wave 560ms ease-in-out
@@ -130,46 +132,71 @@
       // },
     }
 
+
+
+
+
+
+
   </script>
+
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> -->
+  <script src="./js/docsify@4.js"></script>
+  <!-- 代码高亮 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script> -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script> -->
+  <script src="./js/prism-bash.min.js"></script>
+  <script src="./js/prism-python.min.js"></script>
+  <!-- 搜索插件 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script> -->
+  <!-- 添加图片缩放功能 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script> -->
+  <script src="./js/zoom-image.min.js"></script>
+  <!-- 代码复制功能 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script> -->
+  <script src="./js/docsify-copy-code.min.js"></script>
+
+
+
+
+  <!-- Docsify v4 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> -->
 
   <!-- 复制到剪贴板 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script> -->
 
   <!-- 表情符号 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script> -->
 
   <!-- 外部脚本 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
-
-  <script src="./_lib/bubbles.min.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script> -->
 
   <!-- 全文搜索,直接用官方提供的无法生效 -->
-  <script src="//cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js"></script>
+  <!-- <script src="//cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js"></script> -->
 
   <!-- docsify-tabs (latest v1.x.x) -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script> -->
 
   <!-- docsify-example-panels (latest) -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-example-panels"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-example-panels"></script> -->
 
   <!-- docsify-plugin-flexible-alerts Latest -->
-  <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <!-- <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script> -->
 
   <!--语法高亮插件-->
-  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <!-- <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script> -->
 
   <!-- 字数统计 -->
-  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!-- <script src="//unpkg.com/docsify-count/dist/countable.js"></script> -->
   <!-- 复制代码到剪贴板 -->
-  <script src="//unpkg.com/docsify-copy-code"></script>
+  <!-- <script src="//unpkg.com/docsify-copy-code"></script> -->
   <!-- 图片缩放 -->
-  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <!-- <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script> -->
   <!-- 基于Docsify的页面滚动回顶部的插件 -->
-  <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
+  <!-- <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script> -->
   <!--统计访问量插件-->
-  <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <!-- <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
 
 
 
