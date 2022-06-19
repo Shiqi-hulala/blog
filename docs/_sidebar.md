@@ -11,8 +11,8 @@
 * [webpack](total/webpack/webpack.md) -->
 
 * [webpack](total/webpack/webpack.md)
-* [vue](total/vue/vue01.md)
-* [vue](total/vue/vue02.md)
+* [vue](total/vue/vue%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.md)
+<!-- * [vue](total/vue/vue02.md) -->
 
 <!-- js 基础笔记 -->
 <!-- * [total_day01](total/JS_basis/01)
