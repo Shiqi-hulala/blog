@@ -147,7 +147,6 @@ MVC允许在不改变视图的情况下改变视图对用户输入的响应方�
     <a @click="two(10, $event)" href="http://www.taobao.com">淘宝</a>
 </div>
 </template>
-
 <script>
     export default {
         methods: {
