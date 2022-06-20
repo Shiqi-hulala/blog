@@ -11,7 +11,9 @@
 * [webpack](total/webpack/webpack.md) -->
 
 * [webpack](total/webpack/webpack.md)
-* [vue](total/vue/vue-first.md)
+* [vue-instruction](total/vue/vue-v-instruction.md)
+* [vue-value](total/vue/vue-by-value.md)
+  
 <!-- * [vue](total/vue/vue02.md) -->
 
 <!-- js 基础笔记 -->
