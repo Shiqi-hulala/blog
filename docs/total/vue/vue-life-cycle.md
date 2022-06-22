@@ -291,11 +291,13 @@ axios({
 - template 里面挂载 组件
 
 3. 下载`axios `
+
 ```
 npm i axios
 ```
 
 4. 引入`axios`
+
 ```js
 import axios from "axios";
 ```
@@ -304,6 +306,7 @@ import axios from "axios";
 
 
 5. 发送`axios`请求
+
 ```vue
 <template>
   <div>
@@ -590,7 +593,7 @@ export default {
 
 1. 在 `components/Move.vue` 中添加以下代码
 
-   ```vue
+```vue
    <template>
      <div>
          <p>3. vue更新DOM是异步的</p>
@@ -610,7 +613,7 @@ export default {
        }
    }
    </script>Copy to clipboardErrorCopied
-   ```
+```
 
    发现： 页面数据更改了，但从页面上拿到的dom元素中的值还是更改前的数据
 
@@ -618,7 +621,7 @@ export default {
 
    等DOM更新后，触发`$nextTick()`的函数体执行
 
-   ```vue
+```vue
    <template>
      <div>
          <p>3. vue更新DOM是异步的</p>
@@ -645,7 +648,7 @@ export default {
        }
    }
    </script>Copy to clipboardErrorCopied
-   ```
+```
 
 ### 面试背点01 - nextTick实现原理
 
