@@ -13,6 +13,7 @@
 * [webpack](total/webpack/webpack.md)
 * [vue-instruction](total/vue/vue-v-instruction.md)
 * [vue-value](total/vue/vue-by-value.md)
+* [vue-lifeCycle](total/vue/vue-life-cycle.md)
   
 <!-- * [vue](total/vue/vue02.md) -->
 
