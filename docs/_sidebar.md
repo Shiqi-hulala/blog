@@ -15,6 +15,8 @@
 * [vue-value](total/vue/vue-by-value.md)
 * [vue-lifeCycle](total/vue/vue-life-cycle.md)
 * [vue-router](total/vue/vue-router.md)
+* [Array](total/Array/array-way.md)
+
 <!-- * [vue](total/vue/vue02.md) -->
 
 <!-- js 基础笔记 -->
